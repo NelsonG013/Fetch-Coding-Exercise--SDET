@@ -1,0 +1,21 @@
+﻿This is my closest solution to the coding challenge. The test automates the process of finding the fake gold bar.
+
+The project consist of the following components:
+1. Driver Class: Sets up and tears down the WebDriver.
+2. HomePage Class: Represents the web elements and actions on the challenge webpage.
+3. PageInitializer Class: Initializes the HomePage object.
+4. GoldBarTests Class: Contains the test method to find the fake gold bar and verify the solution.
+
+In order to properly run the code, please install
+1. Install the latest version of Visual Studio
+2. Install .NET SDK
+3. Install ChromeDriver and ensure it's in your system's PATH
+4. Install the WebDriverManager NuGet package
+
+To run the test:
+1. Open the solution in Visual Studio.
+2. Restore NuGet packages.
+3. Build the solution.
+4. Run the tests using the Test Explorer.
+
+I believe I was going in the right direction, sometimes my test would pass and sometimes it wouldnt. I spent a whole day on it and dont want to take more time. Aplogogies for not able to completely figure it out.
